@@ -101,8 +101,7 @@
     color: rgb(66, 66, 66);
     text-align: left;
     padding-left: 65px;
-    font-size: 16px;
-    padding-bottom: 115px;       
+    font-size: 16px;    
   }
   .channel-picture-container .tooltip {
     position: absolute;
